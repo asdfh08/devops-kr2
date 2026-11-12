@@ -1,3 +1,4 @@
+# KR2: Konkina
 import os
 import socket
 
